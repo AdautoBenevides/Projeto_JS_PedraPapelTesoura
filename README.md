@@ -24,13 +24,17 @@ jogo de pedra, papel e tesoura, utilizando os principais conceitos do javaScript
 
 </div>
 
+# 
+
 ### Exemplos com diferentes aplicações
+
+
 <div align="center" style="display: inline_block"><br>
 
-<img height = "250" width = "287" src="https://user-images.githubusercontent.com/105507357/228423230-a7bcbaa4-8d4c-4a9a-91b8-b100e3c4db89.png"/>
-<img height = "250" width = "287" src="https://user-images.githubusercontent.com/105507357/228423272-62fdb841-573a-4f50-807b-0796d0187cd7.png"/>
-<img height = "250" width = "287" src="https://user-images.githubusercontent.com/105507357/228423286-046a2ab6-b325-4c03-bd9e-4e05a3233614.png"/>
+<img height = "400" width = "459" src="https://user-images.githubusercontent.com/105507357/228423230-a7bcbaa4-8d4c-4a9a-91b8-b100e3c4db89.png"/>
+<img height = "400" width = "459" src="https://user-images.githubusercontent.com/105507357/228423272-62fdb841-573a-4f50-807b-0796d0187cd7.png"/>
+<img height = "400" width = "459" src="https://user-images.githubusercontent.com/105507357/228423286-046a2ab6-b325-4c03-bd9e-4e05a3233614.png"/>
 
 </div>
 
-#
+# 
